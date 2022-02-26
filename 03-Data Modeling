@@ -1,0 +1,52 @@
+#SQL vs NoSQL
+
+- SQL => stands for Structured Query Language, used to communicate with a database. SQL statements are used to perform tasks such as update data on a database, 
+or retrieve data from a database
+- NoSQL=> are non-tabular databases and store data differently than relational tables. NoSQL databases come in a variety of types based on their data model. 
+The main types are document, key-value, wide-column, and graph. They provide flexible schemas and scale easily with large amounts of data and high user loads
+
+
+| SQL | NoSQL |
+| RELATIONAL DATABASE MANAGEMENT SYSTEM (RDBMS) | Non-relational or distributed database system |
+| These databases have fixed or static or predefined schema | They have dynamic schema |
+| These databases are not suited for hierarchical data storage | These databases are best suited for hierarchical data storage |
+| These databases are best suited for complex queries | These databases are not so good for complex queries |
+| Vertically Scalable | Horizontally scalable |
+
+
+#Review, Research, and Discussion
+1. Name 3 advantages to Test Driven Development?
+- Easier to maintain 
+- High test coverage
+- Tests document the code
+
+2. In what case would you need to use beforeEach() or afterEach() in a test suite?
+The difference is beforeEach()/afterEach() automatically run before and after each tests, which 1. removes the explicit calls from the tests themselves, 
+and 2. invites inexperienced users to share state between tests.
+
+3. What is one downside of Test Driven Development
+- The tests may be difficult to write, especially beyond the level of unit testing.
+- In the beginning, it may slow down development, but in the long run, it actually speeds up development.
+- The whole team needs to buy into Unit testing for it to work well.
+
+4. What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?
+ The most important difference between class- and prototype-based inheritance is that a class defines a type which can be instantiated at runtime
+ , whereas a prototype is itself an object instance.
+ 
+5. Why REST?
+One of the key advantages of REST APIs is that they provide a great deal of flexibility. 
+Data is not tied to resources or methods, so REST can handle multiple types of calls, 
+return different data formats and even change structurally with the correct implementation of hypermedia.
+
+#Document the following Vocabulary Terms
+- functional programming => is a programming paradigm where programs are constructed by applying and composing functions.
+- object-oriented programming (OOP) => is a programming paradigm based on the concept of "objects", which can contain data and code: data in the form of fields, and code, in the form of procedures
+- class => a class is a template definition of the method s and variable s in a particular kind of object
+- super =>refers to superclass (parent) objects.
+- this => is a variable that is used in instance methods to refer to the object on which they are working.
+- Test Driven Development (TDD) => is a software development practice that focuses on creating unit test cases before developing the actual code .
+- Jest  => is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase
+- Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project.
+- data model => is an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities.
+
+
