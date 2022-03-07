@@ -7,3 +7,6 @@
 - | class03 | [03-Data Modeling](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/03-Data%20Modeling) |
 - | class04 | [04-linked list](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/04-linked%20list.md) |
 - | class05 | [05-Authentication](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/05-Authentication.md) |
+- | class06 | [05-Bearer Authorization](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/06-Bearer%20Authorization.md) |
+
+
