@@ -9,6 +9,7 @@ relationships make it simple to perform user assignments. A study by NIST has de
 RBAC can be used to facilitate administration of security in large organizations with hundreds of users and thousands of permissions.Although RBAC is 
 different from MAC and DAC access control frameworks, it can enforce these policies without any complication.
 
+## RBAC vs. ABAC vs. ACL
 
 **Access control lists (ACL)** => An ACL is a means of defining access rights by a given user or user group, to a specific object, such as a document.
 As a simple example, an ACL could be used to allow users from one department to make changes to a document, while only allowing users from other departments to read
@@ -19,7 +20,7 @@ granularity of controls beyond the basic concept of RBAC, but can also greatly e
 RBAC arguably offers a more simplified and manageable approach, given that the privileges of a user in a given position are granted with a simple effort,
 to all others in the same role.  These methods can, however, be used in tandem to increase control.
 
-## RBAC vs. ABAC vs. ACL
+
 
 
 # Review, Research, and Discussion
