@@ -9,5 +9,6 @@
 - | class05 | [05-Authentication](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/05-Authentication.md) |
 - | class06 | [06-Bearer Authorization](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/06-Bearer%20Authorization.md) |
 - | class07 | [07-Access Control (ACL)](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/07-Access%20Control%20(ACL).md) |
+- | class08 | [08-08-Authorization / Authentication](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/08-Authorization%20%7C%20Authentication.md)|
 
 
