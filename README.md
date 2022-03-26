@@ -12,6 +12,7 @@
 - | class08 | [08-Authorization / Authentication](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/08-Authorization%20%7C%20Authentication.md)|
 - | class09 | [09-Event Driven Applications](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/09-Event%20Driven%20Applications.md) |
 - | class10 | [10-Socket.io](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/10-Socket.io.md) |
-- | class11 | [11-message queues](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/11-Message%20Queues.md)|                      
+- | class11 | [11-message queues](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/11-Message%20Queues.md)|      
+- | class12 | [12-trees](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/12-trees.md)              
 
 
