@@ -13,7 +13,7 @@
 - | class09 | [09-Event Driven Applications](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/09-Event%20Driven%20Applications.md) |
 - | class10 | [10-Socket.io](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/10-Socket.io.md) |
 - | class11 | [11-message queues](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/11-Message%20Queues.md)|      
-- | class12 | [12-trees](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/12-trees.md)       
-- | class13 | [13-AWS:cloud server](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/13-AWS:%20Cloud%20Servers.md)     
+- | class12 | [12-trees](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/12-trees.md) |       
+- | class13 | [13-AWS:cloud server](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/13-AWS:%20Cloud%20Servers.md)|    
 
 
