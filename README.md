@@ -15,6 +15,7 @@
 - | class11 | [11-message queues](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/11-Message%20Queues.md)|      
 - | class12 | [12-trees](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/12-trees.md) |       
 - | class13 | [13-AWS:cloud server](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/13-AWS:%20Cloud%20Servers.md)|
-- | class14 | [14 -AWS:S3 and Lambda](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/14%20-AWS:S3%20and%20Lambda.md)  
+- | class14 | [14 -AWS:S3 and Lambda](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/14%20-AWS:S3%20and%20Lambda.md)
+- | class15 | [15- AWS: API, Dynamo and Lambda.md](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/15-%20AWS:%20API%2C%20Dynamo%20and%20Lambda.md)|
 
 
