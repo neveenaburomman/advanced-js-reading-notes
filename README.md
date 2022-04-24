@@ -17,5 +17,7 @@
 - | class13 | [13-AWS:cloud server](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/13-AWS:%20Cloud%20Servers.md)|
 - | class14 | [14 -AWS:S3 and Lambda](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/14%20-AWS:S3%20and%20Lambda.md)
 - | class15 | [15- AWS: API, Dynamo and Lambda.md](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/15-%20AWS:%20API%2C%20Dynamo%20and%20Lambda.md)|
+- | class16|  [16-Component Based UI](https://github.com/neveenaburomman/advanced-js-reading-notes/blob/main/16-%20Component%20Based%20U.md)|
+
 
 
