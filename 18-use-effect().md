@@ -19,7 +19,11 @@ Yes! By default, it runs both after the first render and after every update. Ins
 you might find it easier to think that effects happen “after render”. React guarantees the DOM has been updated by the time it runs the effects.
 
 
+
+
 ![image](https://user-images.githubusercontent.com/90922969/165599562-66cc3ede-843d-4b9e-a124-9ae707640a95.png)
+
+
 
 We declare the count state variable, and then we tell React we need to use an effect. We pass a function to the useEffect Hook. This function we pass is our effect.
 Inside our effect, we set the document title using the document.title browser API. We can read the latest count inside the effect because it’s in the scope of our 
