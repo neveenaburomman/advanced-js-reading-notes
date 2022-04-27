@@ -3,6 +3,9 @@
 A Hook is a special function that lets you “hook into” React features.
 For example, useState is a Hook that lets you add React state to function components. 
 
+The two most used hooks are the useState() hook, which allows functional components to have a dedicated state of their own, and the useEffect() hook, which allows functional components to manipulate DOM elements before each render (almost like one gets to do it in lifecycle functions). 
+useState() hook allows one to declare a state variable inside a function. It should be noted that one use of useState() can only be used to declare one state variable. 
+
 ## What is the use of useState () in Hook?
 
 useState is a Hook (function) that allows you to have state variables in functional components. You pass the initial state to this function and it returns a 
