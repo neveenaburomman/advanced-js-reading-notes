@@ -1,4 +1,4 @@
-## hash table
+## Hash Table
 
 ### What is a hash table?
 A hash table is a data structure that uses a hash function to keep track of where data is put. Each piece of information to be stored has a name,
