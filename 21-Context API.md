@@ -2,6 +2,8 @@
 The Context API is a React structure that enables you to exchange unique details and assists in solving prop-drilling from all levels of your application , React API can 
 solve a lot of problems that modern applications face related to state management and how they're passing state to their components
 
+Context is primarily used when some data needs to be accessible by many components at different nesting levels. Apply it sparingly because it makes component reuse more difficult. If you only want to avoid passing some props through many levels, component composition is often a simpler solution than context.
+
 ## When to Use Context?
 Context is designed to share data that can be considered “global” for a tree of React components, such as the current authenticated user, theme, or preferred language.
 For example, in the code below we manually thread through a “theme” prop in order to style the Button component:
