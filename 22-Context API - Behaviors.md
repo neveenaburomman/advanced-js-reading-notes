@@ -29,4 +29,4 @@ update with the latest context value. Compared to the Context API, the useContex
 in fewer lines of code.
 
 So ,The Context API in React provides you with built-in functions and components to avoid prop-drilling in your component tree. The React Hook useContext()
-applies the same functionality in a streamlined, functional component body in one call.**
+applies the same functionality in a streamlined, functional component body in one call.
