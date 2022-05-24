@@ -3,6 +3,8 @@ A graph is a common data structure that consists of a finite set of nodes (or ve
 is referred to as an edge, which communicates that the x vertex connects to the y vertex. In the examples below, circles represent vertices,
 while lines represent edges.
 In the examples below, circles represent vertices, while lines represent edges.
+
+
 ![image](https://user-images.githubusercontent.com/90922969/170011561-64cfb13f-5cf1-4fbb-b152-76a51f69ad1a.png)
 
  Graphs are used to solve real-life problems that involve representation of the problem space as a network. Examples of networks include telephone networks,
