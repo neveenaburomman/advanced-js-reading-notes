@@ -75,10 +75,7 @@ store.dispatch(fetchSomeData)
 Just like with a normal action, we first need to handle a user event in the application, such as a click on a button. Then, we call dispatch(), and pass in
 something, whether it be a plain action object, a function, or some other value that a middleware can look for.
 Once that dispatched value reaches a middleware, it can make an async call, and then dispatch a real action object when the async call completes.
- When we add async logic to a Redux app, we add an extra step where middleware can run logic like AJAX requests, then dispatch actions. That makes the
- async data flow look like this:
- 
-- ![Uploading reduxasyncdataflowdiagram-d97ff38a0f4da0f327163170ccc13e80.gif…]()
+ When we add async logic to a Redux app, we add an extra step where middleware can run logic like AJAX requests, then dispatch actions. 
 
 
 ## Using the Redux Thunk Middleware
