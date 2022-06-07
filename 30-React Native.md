@@ -15,4 +15,9 @@ React Native has many Core Components for everything from form controls to activ
 mostly work with the following Core Components:
 ![image](https://user-images.githubusercontent.com/90922969/172328340-a1b0e545-38b8-4832-b54c-6a15f1f8cfcc.png)
 
+## Implementation
+The working principles of React Native are virtually identical to React except that React Native does not manipulate the DOM via the Virtual DOM. It runs in a background process (which interprets the JavaScript written by the developers) directly on the end-device and communicates with the native platform via serialized data over an asynchronous and batched bridge
+React components wrap existing native code and interact with native APIs via React's declarative UI paradigm and JavaScript.
+While React Native styling has a similar syntax to CSS, it does not use HTML or CSS.[20] Instead, messages from the JavaScript thread are used to manipulate native views. With React Native developers have to write native code in the languages of the aimed platform such as Java or Kotlin for Android, Objective-C or Swift for iOS, and C++/WinRT or C# for Windows 10.
 
+Microsoft builds and maintains React Native for Windows and React Native for macOS.
